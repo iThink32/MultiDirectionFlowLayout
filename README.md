@@ -4,7 +4,7 @@ A flow layout that allows you to scroll in multiple directions
 ## Usage :-
 
 First of all this collection view layout is designed to keep the first column and the first row pinned , moreover the rows 
-after below the first will scroll below the first one.Check the gif below for more info.
+after below the first will scroll below the first one.Check the gif below for more info. 
 
 ![alt text](https://github.com/iThink32/MultiDirectionFlowLayout/blob/master/MultiDirectionFlowlayout.gif)
 
